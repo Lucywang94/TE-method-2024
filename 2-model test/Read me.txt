@@ -1,0 +1,7 @@
+06/28/2024
+
+Data/	1Ah experimental dataset
+
+Code/	Please run Plot.py in Code
+
+Model/	The pre-trained model

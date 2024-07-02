@@ -1,0 +1,7 @@
+06/28/2024
+
+Data/	>= 30Ah experimental dataset (internal temperature)
+
+Code/	Training code on the internal temperature of large-format batteries
+
+Model/	The trained model on the internal temperature of large-format batteries
